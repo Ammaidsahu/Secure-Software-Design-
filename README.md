@@ -101,5 +101,5 @@ We welcome contributions! Follow these steps:
 For any queries, reach out at [asadali.rasool@gmail.com] or create an issue in the repository.
 
 ---
-🔐 **Stay secure! Use strong passwords & encrypt your data!** 🚀
+🔐 **Stay secure! Use strong passwords & encrypt your data** 🚀
 
